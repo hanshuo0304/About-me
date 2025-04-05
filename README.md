@@ -1,2 +1,2 @@
 # About-me
-A student majors in Surveying and Mapping Engineering from Northeastern University China.
+A student majors in Geomatics from Northeastern University（China）.
